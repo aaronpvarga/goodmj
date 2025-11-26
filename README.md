@@ -1,2 +1,1 @@
-# goodmj
-Cannabis industry web app
+# GoodMj
